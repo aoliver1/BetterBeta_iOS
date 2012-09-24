@@ -1,0 +1,23 @@
+
+/*
+ <codex>
+ <abstract>User-visible names for the book's properties.
+ </abstract>
+ <version>1.0</version>
+ </codex>
+ */
+
+"area_name" = "Area Name";
+"area_details" = "Area Details";
+"area_parent" = "Parent Area";
+
+"problem_name" = "Problem Name";
+"problem_details" = "Problem Details";
+"problem_area" = "Problem Area";
+
+
+"beta_name" = "Beta Name";
+"beta_details" = "Beta Details";
+"beta_area" = "Area";
+"beta_problem" = "Problem";
+"beta_path" = "Beta Path";
